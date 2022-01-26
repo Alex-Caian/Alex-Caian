@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alex-Caian. Postgrad from Uni Bristol, enrolled on a data science course at Digital Futures Academy. 
-- 👀 I’m interested in Data Science and mathematical models.
-- 🌱 I’m currently learning NLP and NN.
-- :star2: Previous major contributions to cyber Kill-Chain classification using supervised v.s unsupervised models.
-- 💞️ I’m looking to collaborate on ML projects.
+- 👋 Hi, I’m @Alex-Caian. Postgrad from Uni Bristol, junior data scientist for Digital Futures. 
+- 👀 I’m interested in quantum speedups of mathematical models and NN.
+- 🌱 I’m currently learning TFQ applications.
+- :star2: Previous major contributions to cyber Kill-Chain classification of network logs & genre classification using only lyrics.
+- 💞️ I’m looking to collaborate on ML projects, specifically NLP.
 - 📫 How to reach me: ac17176@alumni.bristol.ac.uk (Altern: axl_acc@yahoo.ro); (+4)0728892390
 
 <!---
