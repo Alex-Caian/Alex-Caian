@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex-Caian. Postgrad from Uni Bristol, junior data scientist for Digital Futures. 
+- 👋 Hi, I’m @Alex-Caian. Postgrad from Uni Bristol, Data science assistant instructor at Digital Futures. 
 - 👀 I’m interested in quantum speedups of mathematical models and NN.
 - 🌱 I’m currently learning TFQ applications.
 - :star2: Previous major contributions to cyber Kill-Chain classification of network logs & genre classification using song lyrics.
