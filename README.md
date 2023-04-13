@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Alex-Caian. Postgrad from Uni Bristol, Data science assistant instructor at Digital Futures. 
-- 👀 I’m interested in quantum speedups of mathematical models and NN.
-- 🌱 I’m currently learning TFQ applications.
-- :star2: Previous major contributions to cyber Kill-Chain classification of network logs & genre classification using song lyrics.
-- 💞️ I’m looking to collaborate on ML projects, specifically NLP.
-- 📫 How to reach me: ac17176@alumni.bristol.ac.uk (Altern: axl_acc@yahoo.ro); (+4)0728892390
+- 👋 Hi, I’m @Alex-Caian. Data Science Assistant Instructor at Digital Futures. 
+- 👀 I’m interested in unsupervised learning & quantum speedups. 
+- 🌱 I’m currently learning OCI.
+- :star2: Previous major contributions to cyber Kill-Chain classification of network logs.
+- 💞️ Always interested to hear more about potential collaborations on ML.
+- 📫 How to reach me: acaian@digitalfutures.com (Altern: axl_acc@yahoo.ro); (+4)0728892390
 
 <!---
 Alex-Caian/Alex-Caian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
